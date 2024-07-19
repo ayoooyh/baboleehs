@@ -1,16 +1,16 @@
-export default function NewsPage() {
+export default function News() {
   return (
     <>
-      <div>News0</div>
-      <div>News1</div>
-      <div>News2</div>
-      <div>News3</div>
-      <div>News4</div>
-      <div>News5</div>
-      <div>News6</div>
-      <div>News7</div>
-      <div>News8</div>
-      <div>News9</div>
+      <div>News 1</div>
+      <div>News 2</div>
+      <div>News 3</div>
+      <div>News 4</div>
+      <div>News 5</div>
+      <div>News 6</div>
+      <div>News 7</div>
+      <div>News 8</div>
+      <div>News 9</div>
+      <div>News 10</div>
     </>
   );
 }

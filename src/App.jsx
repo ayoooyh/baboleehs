@@ -1,5 +1,5 @@
 import HomePage from "./Home";
-import NewsPage from "./NewsPage";
+import NewsPage from "./News";
 
 function App() {
   return (
